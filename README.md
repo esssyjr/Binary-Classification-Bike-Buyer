@@ -11,8 +11,7 @@ Feel free to modify the code and experiment with different models to improve acc
 
 ## Usage
 
-1. Clone the repository.
-2. Install the required libraries listed in `requirements.txt`.
+1. Clone the repository. 
 3. Adjust the file path in the code to your dataset location.
 4. Run the code using a Python interpreter.
 
